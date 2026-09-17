@@ -8,7 +8,7 @@ A responsive landing page for a fictional premium fitness facility, built with p
 
 ## 📋 Overview
 
-FitCore Gym is a single-page marketing website for a modern fitness center. It showcases the gym's features, member testimonials, key statistics, and a membership signup form. The project was built as **Assignment 2** with a focus on mastering CSS layout techniques without relying on Flexbox or CSS Grid.
+FitCore Gym is a single-page marketing website for a modern fitness center. It showcases the gym's features, member testimonials, key statistics, and a membership signup form. The project was built as **Assignment 2 for route training** with a focus on mastering CSS layout techniques without relying on Flexbox or CSS Grid.
 
 ---
 
